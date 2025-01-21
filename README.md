@@ -6,12 +6,12 @@
 #### Database Management: MySQL
 
 ## Education
-- MASTERS IN APPLIED DATA SCIENCE AND DATA ANALYTICS |Kettering University, Flint, Michigan (April 2024 - Present)
-  GPA: 3.74/4
-  Relevant course work:
+**MASTERS IN APPLIED DATA SCIENCE AND DATA ANALYTICS |Kettering University, Flint, Michigan (April 2024 - Present)**
+-GPA: 3.74/4
+-Relevant course work:
   Data Analytics and Visualization, Information Retrieval and Data Mining, Artificial Intelligence, Communicating Data, Project Management.
-          		
-- BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING | APJ Abdul Kalam Technological University, Kerala, India (July 2016 - October 2020)
+
+**BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING | APJ Abdul Kalam Technological University, Kerala, India (July 2016 - October 2020)**
 
 ## Work Experience
 **GRADUATE RESEARCH ASSISTANT@ Kettering University, Flint, Michigan (_April 2024 - Present_)**
